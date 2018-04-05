@@ -1,0 +1,11 @@
+{"web":{
+  "client_id":"150770087323-cq834jhaigu0lri7a3r77j1e7oa4f13i.apps.googleusercontent.com",
+  "project_id":"feedback-dev-199806",
+  "auth_uri":"https://accounts.google.com/o/oauth2/auth",
+  "token_uri":"https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs",
+  "client_secret":"4HF7SxGALbb6vH-PuYJL6YRO",
+  "redirect_uris":["http://localhost:5000/auth/google/callback"],
+  "javascript_origins":["http://localhost:5000"]
+  }
+}
